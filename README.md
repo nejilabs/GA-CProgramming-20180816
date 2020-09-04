@@ -1,2 +1,2 @@
-# FCC-C
+# GA-C
 Just to learn more about C.
